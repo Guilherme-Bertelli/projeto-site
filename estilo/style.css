@@ -8,9 +8,11 @@ body {
 }
 
 main {
-    background-image: linear-gradient(to bottom, #F2A50A, #F2DD0A, #F2C10A, #F2840A);
+    background-color: #f0f0f0;
     background-attachment: fixed;
-    width: 40%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.137);
+    border-radius: 10px;
+    width: 40%;height: 550px;
     margin: 10px auto;
     padding: 10px;
 }
