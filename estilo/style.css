@@ -1,20 +1,16 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 body {
     background-color: white;
 }
 
-h1, h2 {
-    margin: 0;
-}
-
 main {
     background-image: linear-gradient(to bottom, #F2A50A, #F2DD0A, #F2C10A, #F2840A);
     background-attachment: fixed;
-    width: 60%;
+    width: 40%;
     margin: 10px auto;
     padding: 10px;
 }
